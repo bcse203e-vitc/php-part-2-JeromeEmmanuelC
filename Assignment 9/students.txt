@@ -1,0 +1,6 @@
+Anita,anita123@gmail.com,2000-06-15
+Ravi,ravi.email.com,1998-12-10
+Kiran,kiran45@domain.org,2002-03-25
+Sonia,sonia99@site,2001-09-05
+Rajesh,rajesh@company.com,1995-11-20
+
